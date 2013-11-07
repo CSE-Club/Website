@@ -1,30 +1,10 @@
-#Website
+# About
 
-##Installation
+This is the development repository for the in-progress site for the Computer Science and Engineering Club at CSU, San Bernardino.
 
-###Clone the repository:
-	git clone git@github.com:CSE-Club/Website.git
+# Developers
 
-###Set webroot:
-public/ should be your webservers root, other files should be one level up from it.
-
-###Get Composer:
-	curl -sS https://getcomposer.org/installer | php
-
-###Install Laravel Dependencies:
-	php composer.phar install
-
-###Set up a database:
-PostgreSQL, MySQL, SQLite, and SQL Server should all work
-
-###Set up a cache driver (Optional):
-Memcached or APC recommended
-
-###Set up config:
-	cp -r app/config.default app/config
-Edit each config file appropriately.
-
-###Run migrations:
-	php artisan migrate
-
-That's it!
+1. Dylan Allbee
+2. Mike Korcha
+3. Andrew Brinker
+4. Cory Cook
