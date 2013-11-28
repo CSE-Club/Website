@@ -9,3 +9,4 @@ This is the development repository for the in-progress site for the Computer Sci
 3. Andrew Brinker
 4. Cory Cook
 5. Juan Nevares
+6. Joe Lopez (a.k.a. Shadow Fox)
